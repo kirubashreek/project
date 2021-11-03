@@ -1,0 +1,2 @@
+to and from local repository by applying clone and rebasing on
+repositories.
